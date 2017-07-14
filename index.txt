@@ -11,14 +11,4 @@
 <h3>Hello world!</h3>
 </body>
 </html>
-=======
-<meta charset="UTF-8">
-    <title>ToDo z PoznajProgramowanie.pl</title>
- 
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
- </head>
- <body>
-    <h3>Hello world!</h3>
- </body>
- </html>
->>>>>>> abe5bee53fdae21df0a2b71281b0f3cd60457d7b
+
