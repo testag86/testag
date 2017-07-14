@@ -1,12 +1,12 @@
-1. <!DOCTYPE html>
-2. <html lang="en">
-3. <head>
-4.    <meta charset="UTF-8">
-5.    <title>ToDo z PoznajProgramowanie.pl</title>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+    <title>ToDo z PoznajProgramowanie.pl</title>
  
-6.    <link rel="stylesheet" 7. href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-8. </head>
-9. <body>
-10.    <h3>Hello world!</h3>
-11. </body>
-12. </html>
+    <link rel="stylesheet" 7. href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+ </head>
+ <body>
+    <h3>Hello world!</h3>
+ </body>
+ </html>
